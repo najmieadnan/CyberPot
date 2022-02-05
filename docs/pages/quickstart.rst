@@ -5,12 +5,13 @@ CyberPot is a TCP honeypot written in python 3.
 
 Installation
 ------------
-pip3 install cyberpot
+    pip3 install cyberpot
 
 Running
 -------
-python -m Cyberpot cyberpot.ini
-python -m Cyberpot -h / --help
+    python -m Cyberpot cyberpot.ini
+
+    python -m Cyberpot -h / --help
 
 Source Code
 -----------
