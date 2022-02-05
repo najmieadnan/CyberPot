@@ -7,6 +7,10 @@ Source Code
 -----------
 https://github.com/najmieadnan/CyberPot
 
+PyPI package
+------------
+https://pypi.org/project/cyberpot/
+
 Documentation
 -------------
 Documentation can be found in the 'docs/' directory, or at https://cyberpot.rtfd.io
